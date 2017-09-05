@@ -7,7 +7,8 @@ Android Client for the Portinari Project
 
  - Open the Front Gate
  - Turn on/off the Front Gate Light
- - Show the live Camera Feed	
+ - Show the live Camera Feed
+ - Reboot the RaspBerry System
 
 The project uses my fork of the MjpegView for showing the video stream.
 Clone it into this project Libs folder.
