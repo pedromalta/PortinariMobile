@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Portinari Mobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_config">Configurações</string>
+    <string name="title_system">Sistema</string>
+    <string name="label_light">Holofote</string>
+    <string name="label_gate">Portão</string>
+    <string name="label_reboot">Reiniciar</string>
+    <string name="label_server">IP Servidor</string>
+    <string name="summary_server">Configure o ip do servidor</string>
+    <string name="label_camera_port">Porta do Stream de Video</string>
+    <string name="summary_camera_port">Configure a porta do Stream de Video</string>
+    <string name="label_appliances_port">Porta do Serviço de Automatização</string>
+    <string name="summary_appliances_port">Configure a porta do Serviço de Automatização</string>
+
+
+</resources>

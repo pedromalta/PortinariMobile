@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:dialogTitle="@string/label_server"
+        android:key="host"
+        android:summary="@string/summary_server"
+        android:defaultValue="192.168.1.101"
+        android:title="@string/label_server" />
+
+    <EditTextPreference
+        android:dialogTitle="@string/label_camera_port"
+        android:key="port-video"
+        android:summary="@string/summary_camera_port"
+        android:defaultValue="8081"
+        android:numeric="integer"
+        android:title="@string/label_camera_port" />
+
+    <EditTextPreference
+        android:dialogTitle="@string/label_appliances_port"
+        android:key="port-appliances"
+        android:summary="@string/summary_appliances_port"
+        android:defaultValue="5000"
+        android:numeric="integer"
+        android:title="@string/label_appliances_port" />
+
+</PreferenceScreen>

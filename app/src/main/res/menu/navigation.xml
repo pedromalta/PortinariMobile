@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/icons8_house"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_config"
+        android:icon="@drawable/icons8_menu"
+        android:title="@string/title_config" />
+
+    <item
+        android:id="@+id/navigation_system"
+        android:icon="@drawable/icons8_linux_server"
+        android:title="@string/title_system" />
+
+</menu>

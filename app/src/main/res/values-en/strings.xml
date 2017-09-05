@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Portinari Mobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_config">Config</string>
+    <string name="title_system">System</string>
+    <string name="label_light">Light</string>
+    <string name="label_gate">Gate</string>
+    <string name="label_reboot">Reboot</string>
+    <string name="label_server">IP Server</string>
+    <string name="summary_server">Set server IP</string>
+    <string name="label_camera_port">Video Stream Port</string>
+    <string name="summary_camera_port">Set Video Stream port</string>
+    <string name="label_appliances_port">Appliances Port</string>
+    <string name="summary_appliances_port">Set Appliances port</string>
+</resources>
